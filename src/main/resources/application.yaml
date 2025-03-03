@@ -1,0 +1,7 @@
+discord:
+  bot:
+    token: "-"
+telegram:
+  bot:
+    name: "-"
+    token: "-"

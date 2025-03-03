@@ -1,0 +1,11 @@
+discord:
+  bot:
+    token: ${DISCORD_BOT_TOKEN}
+telegram:
+  bot:
+    name: "Chief"
+    token: ${TELEGRAM_BOT_TOKEN}
+    chat_id: ${CHAT_ID}
+    bot_name: ${BOT_NAME}
+open_ai:
+  token: ${OPEN_AI_TOKEN}
